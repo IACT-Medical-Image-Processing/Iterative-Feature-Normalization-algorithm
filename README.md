@@ -7,4 +7,4 @@ This repository contains a python implementation of the Iterative Feature Normal
 - F0 contours are extracted by using the autocorrelation method. For more details, you can refer to this [link](https://gist.github.com/endolith/255291)
 - Each speech sample is represented by a set of 7 F0 contour statistics: [F0 mean, F0 standard deviation, F0 range, F0 quantile 1, F0 quantile 3, F0 IQR, F0 median]
 
-This algorithm was implemented as an assignment for the Affective Computing course (Spring'20) at IIIT Delhi.
+This algorithm was implemented as an assignment for the Affective Computing course (Spring'20) at IIIT Delhi. The file `Report.pdf`provides more details about the algorithm, implementation and results obtained.
